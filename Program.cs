@@ -4,9 +4,10 @@ namespace LogicalProgramming
 {
     class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            CouponNumber.Coupon();
+            StopWatch stopwatch = new StopWatch();
+            StopWatch.ElapsedTime();
         }
     }
 }
