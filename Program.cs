@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-namespace LogicalProgramming
+namespace Fibonacci
 {
-    class program
+    class Fbc
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Logical Programming");
+            FibonacciSeries.FbcSeries();
         }
     }
 }
