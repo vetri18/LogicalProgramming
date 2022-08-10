@@ -6,7 +6,7 @@ namespace LogicalProgramming
     {
         public static void Main(string[] args)
         {
-            PrimeNumber.PrimeNum();
+            ReverseTheNumber.ReverseNumber();
         }
     }
 }
