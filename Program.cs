@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
-namespace Fibonacci
+namespace LogicalProgramming
 {
-    class Fbc
+    class Program
     {
         public static void Main(string[] args)
         {
-            FibonacciSeries.FbcSeries();
+            PerfectNumber.CheckPerfectNumber();
         }
     }
 }
